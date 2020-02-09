@@ -33,7 +33,7 @@ Alhoewel je ook op de server en desktop kan programmeren in JavaScript, bijvoorb
 
 De eerste les bevat heel veel JavaScript syntax. Veel hiervan is analoog aan hetgeen je gezien hebt in Java. Concentreer je dus vooral op de verschillen.
 
-In de slides van Hoofdstuk 1 wordt ook reeds gesproken over de basisobjecten **Number**, **Math** en **String**. Overloop dus zeker eens de reference op MDN in verband met deze objecten, om te zien welke methoden er allemaal beschikbaar zijn vooor deze objecten: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+In de slides van Hoofdstuk 1 wordt ook reeds gesproken over de basisobjecten **Number**, **Math** en **String**. Overloop dus zeker eens de reference op MDN in verband met deze objecten, om te zien welke methoden er allemaal beschikbaar zijn voor deze objecten: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ### **Belangrijke opmerking**
 
