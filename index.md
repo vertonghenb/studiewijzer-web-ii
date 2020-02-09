@@ -42,10 +42,11 @@ Dit is een experiment van vorig academiejaar. Je kan via deze website de leersto
 
 Bij les01 horen de volgende oefeningen:
 
-**Oefeningen: [(https://github.com/Web-II/01exJavaScript](https://github.com/Web-II/01exJavaScript)**
+| **Oefeningen: [(https://github.com/Web-II/01exJavaScript](https://github.com/Web-II/01exJavaScript)**
 - **Oefening 1: Blad – steen – schaar**
-- **Oefening 2: Dragon slayer**
+- **Oefening 2: Dragon slayer** |
 
+Succes met het doornemen van les01!
 
 
 
