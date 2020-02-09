@@ -37,10 +37,9 @@ In de slides van Hoofdstuk 1 wordt ook reeds gesproken over de basisobjecten **N
 ### **Belangrijke opmerking**
 
 Voor Hoofdstuk 1 is er geen repo met startbestanden voor de theorie. De repo [https://github.com/Web-II/01thVoorbeelden](https://github.com/Web-II/01thVoorbeelden) bevat een website met daarin de theorie uit de slides afgewisseld met interactieve oefeningetjes. Om de code die je intypt in de tekstvakken uit te voeren moet je op `<Ctrl+ENTER>` drukken. En daarna natuurlijk nog op `<F12>`om de **Console** af te beelden.
+Dit is een experiment van vorig academiejaar. Je kan via deze website de leerstof van les 01 dus nog op een derde manier ;-) doorlopen. De website staat online op [https://web-ii.github.io/01thVoorbeelden/](https://web-ii.github.io/01thVoorbeelden/) of je kan de repo ook clonen en openen met de Live server.
 
-Dit is een experiment van vorig academiejaar. Je kan via deze website de leerstof van les 01 dus nog op een derde manier ;-) doorlopen. De website staat online op [https://web-ii.github.io/01thVoorbeelden/](https://web-ii.github.io/01thVoorbeelden/) of je kan de repo ook clonen en open met de Live server.
-
-
+Bij les01 horen de volgende oefeningen:
 
 **Oefeningen: [(https://github.com/Web-II/01exJavaScript](https://github.com/Web-II/01exJavaScript)**
 - **Oefening 1: Blad – steen – schaar**
