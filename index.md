@@ -17,6 +17,12 @@ Ik raad alvast als extra leermateriaal zeker het onderstaande gratis materiaal a
 - https://eloquentjavascript.net/ 
   <br>Dit boek is technischer, maar is toch interessant als je op sommige zaken wat dieper wilt ingaan. Is ook te downloaden als pdf-bestand https://eloquentjavascript.net/Eloquent_JavaScript.pdf
 
+## Les01 De bouwstenen van JavaScript
+
+> Leerstof: Slides [Hoofdstuk 1 JavaScript](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 1-83
+
+
+
 
 
 
