@@ -19,7 +19,7 @@ Ik raad alvast als extra leermateriaal zeker het onderstaande gratis materiaal a
 
 ## Les01 De bouwstenen van JavaScript
 
-> Leerstof: Slides [Hoofdstuk 1 JavaScript](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 1-83
+**Leerstof: Slides [Hoofdstuk 1 JavaScript](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 1-83**
 
 Tenzij je reeds een voorkennis hebt van JavaScript zou ik je aanraden om vooraleer de slides te doorlopen te starten met tutorial: [https://javascript.info/](https://javascript.info/)
 
@@ -42,7 +42,7 @@ Dit is een experiment van vorig academiejaar. Je kan via deze website de leersto
 
 
 
-> Oefeningen: [(https://github.com/Web-II/01exJavaScript](https://github.com/Web-II/01exJavaScript)
+**Oefeningen: [(https://github.com/Web-II/01exJavaScript](https://github.com/Web-II/01exJavaScript)**
 - **Oefening 1: Blad – steen – schaar**
 - **Oefening 2: Dragon slayer**
 
