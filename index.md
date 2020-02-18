@@ -26,7 +26,7 @@ Tenzij je reeds een voorkennis hebt van JavaScript zou ik je aanraden om voorale
 
 - **An introduction** (*1.1 An introduction to JavaScript* tot *1.4 Developer console*)
 - **JavaScript Fundamentals** (*2.1 Hello, world!* tot *2.14 Functions*)
-  **Opmerking** *2.3 The modern mode, "use strict"* is in de slides niet vermeld, je kan dit dus overslaan, maar je mag dit wel gebruiken, moet niet.
+  <br>**Opmerking** *2.3 The modern mode, "use strict"* is in de slides niet vermeld, je kan dit dus overslaan, maar je mag dit wel gebruiken, moet niet.
 - **Code quality** (*3.1 Debugging in Chrome*)
 
 Alhoewel je ook op de server en desktop kan programmeren in JavaScript, bijvoorbeeld via Node.js zullen we in dit opleidingsonderdeel enkel programmeren in de Browser. Bijgevolg is het gebruik van de **Chrome Developer tools** heel erg belangrijk. Als er iets niet werkt dan moet je eerste reactie zijn om de **Chrome Developer tools** (`<F12>`) te openen en te kijken of er geen errors vermeld zijn in de **Console**.
@@ -61,7 +61,7 @@ Om bijvoorbeeld het derde element te verwijderen uit de array *pizzas* gebruik j
 
 Later in deze cursus komen we nog terug op het werken met arrays, maar bekijk al eens op MDN welke properties en methods er allemaal beschikbaar zijn [Array op MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array). Zie ook dia 98 en 99.
 
-Op dia 100 en 101 wordt **Array destructuring** besproken en op dia 102 wordt gebruikgemaakt van de spread syntax. De uitleg op deze drie dia's is heel kort en al komt men later in de cursus nog hierop. Ik zou toch aanraden om nu al de volgende artikels te lezen: 
+Op dia 100 en 101 wordt **Array destructuring** besproken en op dia 102 wordt gebruikgemaakt van de spread syntax. De uitleg op deze drie dia's is heel kort en al komt men later in de cursus nog hierop terug. Ik zou toch aanraden om nu al de volgende artikels te lezen: 
 
 - [Destructuring assignment op MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 tot juist voor 'Unpacking values from a regular expression match'.
@@ -71,20 +71,20 @@ tot juist voor 'Unpacking values from a regular expression match'.
 | Als oefening op arrays kan je op de website [https://web-ii.github.io/01thVoorbeelden/](https://web-ii.github.io/01thVoorbeelden/) bij Arrays > Eenvoudige operaties, onderaan de pagina de oefening maken (bestaat uit 10 vraagjes). |
 | Eventueel kan je ook nog Oefening 3 en 4 van Hoofdstuk 1 maken. |
 
- ### Objecten en functies
+### Objecten en functies
 
-Neem de slides door van Hoofdstuk 2: Objecten nl. dia 1 t.e.m. dia 19. **Maak daarna de oefening op dia 20**.
+Neem de slides door van [Hoofdstuk 2: Objecten](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) nl. dia 1 t.e.m. dia 19. **Maak daarna de oefening op dia 20**.
 
-Neem de slides door van Hoofdstuk 2: functies nl. dia 21 t.e.m. dia 45. **Maak daarna de oefening op dia 46**.
+Neem de slides door van [Hoofdstuk 2: functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) nl. dia 21 t.e.m. dia 45. **Maak daarna de oefening op dia 46**.
 
 Na het doornemen van de slides over functies ken je nu drie manieren om een functie te definiëren, alle drie hebben ze hun toepassingen. Je moet ze dus alle drie kennen.
 
-Eventueel kan je op [https://javascript.info/](https://javascript.info/) nog de volgende items door te nemen:
+Eventueel kan je op [https://javascript.info/](https://javascript.info/) nog de volgende items doonemen:
 
 - **JavaScript Fundamentals** (*2.15 Function expressions* en *2.16 Arrow functions, the basics*)
-  **Opmerking** Eventueel kan je ook *2.17 JavaScript specials* doornemen, wat grotendeels herhaling is.
+  <br>**Opmerking** Eventueel kan je ook *2.17 JavaScript specials* doornemen, wat grotendeels herhaling is.
 - **Objects: the basics** (*4.1 Objects*)
-  **Opmerking** Ben je nog niet helemaal mee met 'Destructuring assignment' dan raad ik je aan om *5.10 Destructuring assignment* door te nemen.
+  <br>**Opmerking** Ben je nog niet helemaal mee met 'Destructuring assignment' dan raad ik je aan om *5.10 Destructuring assignment* door te nemen.
 
 
 
