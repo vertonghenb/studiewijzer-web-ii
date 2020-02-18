@@ -52,9 +52,7 @@ Succes met het doornemen van les01!
 
 Maak als herhaling op les 01 de driloefeningen: [https://github.com/Web-II/01driloefeningen](https://github.com/Web-II/01driloefeningen)
 
-| **Leerstof:<br>
-Slides [Hoofdstuk 1: JavaScript - arrays](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 84-104** de rest van het hoofdstuk is ter info.
-<br>**Slides [Hoofdstuk 2: Objecten en functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) dia's 1-46** |
+| **Leerstof:<br>Slides [Hoofdstuk 1: JavaScript - arrays](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 84-104** de rest van het hoofdstuk is ter info.<br>**Slides [Hoofdstuk 2: Objecten en functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) dia's 1-46** |
 
 ### Arrays
 
@@ -70,7 +68,7 @@ tot juist voor 'Unpacking values from a regular expression match'.
 - [Rest parameters and spread syntax op javascript.info](https://javascript.info/rest-parameters-spread)
 
 | **Oefeningen:** |
-| Als oefening op arrays kan je op de website https://web-ii.github.io/01thVoorbeelden/ bij Arrays > Eenvoudige operaties, onderaan de pagina de oefening maken (bestaat uit 10 vraagjes). |
+| Als oefening op arrays kan je op de website [https://web-ii.github.io/01thVoorbeelden/](https://web-ii.github.io/01thVoorbeelden/) bij Arrays > Eenvoudige operaties, onderaan de pagina de oefening maken (bestaat uit 10 vraagjes). |
 | Eventueel kan je ook nog Oefening 3 en 4 van Hoofdstuk 1 maken. |
 
  ### Objecten en functies
