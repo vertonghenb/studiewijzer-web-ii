@@ -46,11 +46,9 @@ Bij les01 horen de volgende oefeningen:
 | - **Oefening 1: Blad – steen – schaar** |
 | - **Oefening 2: Dragon slayer** |    
 
-Succes met het doornemen van les01!
-
 ## Les02 Arrays, objects and functions
 
-Maak als herhaling op les 01 de driloefeningen: [https://github.com/Web-II/01driloefeningen](https://github.com/Web-II/01driloefeningen)
+Maak als herhaling op les01 de driloefeningen: [https://github.com/Web-II/01driloefeningen](https://github.com/Web-II/01driloefeningen)
 
 | **Leerstof:<br>Slides [Hoofdstuk 1: JavaScript - arrays](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 84-104** de rest van het hoofdstuk is ter info.<br>**Slides [Hoofdstuk 2: Objecten en functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) dia's 1-46** |
 
@@ -79,20 +77,11 @@ Neem de slides door van [Hoofdstuk 2: functies](https://web-ii.github.io/OverVie
 
 Na het doornemen van de slides over functies ken je nu drie manieren om een functie te definiëren, alle drie hebben ze hun toepassingen. Je moet ze dus alle drie kennen.
 
-Eventueel kan je op [https://javascript.info/](https://javascript.info/) nog de volgende items doonemen:
+Eventueel kan je op [https://javascript.info/](https://javascript.info/) nog de volgende items doornemen:
 
 - **JavaScript Fundamentals** (*2.15 Function expressions* en *2.16 Arrow functions, the basics*)
   <br>**Opmerking** Eventueel kan je ook *2.17 JavaScript specials* doornemen, wat grotendeels herhaling is.
 - **Objects: the basics** (*4.1 Objects*)
   <br>**Opmerking** Ben je nog niet helemaal mee met 'Destructuring assignment' dan raad ik je aan om *5.10 Destructuring assignment* door te nemen.
 
-
-
-
-
-
-
-
-
-
-
+Succes met het doornemen van les02!
