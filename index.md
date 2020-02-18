@@ -20,7 +20,7 @@ Ik raad alvast als extra leermateriaal zeker het onderstaande gratis materiaal a
 ## Les01 De bouwstenen van JavaScript
 
 
-| **Leerstof:  Slides [Hoofdstuk 1 JavaScript](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 1-83** |
+| **Leerstof:  Slides [Hoofdstuk 1: JavaScript](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 1-83** |
 
 Tenzij je reeds een voorkennis hebt van JavaScript zou ik je aanraden om vooraleer de slides te doorlopen te starten met de tutorial [https://javascript.info/](https://javascript.info/) en de volgende items door te nemen:
 
@@ -47,6 +47,46 @@ Bij les01 horen de volgende oefeningen:
 | - **Oefening 2: Dragon slayer** |    
 
 Succes met het doornemen van les01!
+
+## Les02 Arrays, objects and functions
+
+Maak als herhaling op les 01 de driloefeningen: [https://github.com/Web-II/01driloefeningen](https://github.com/Web-II/01driloefeningen)
+
+| **Leerstof:<br>
+Slides [Hoofdstuk 1: JavaScript - arrays](https://web-ii.github.io/OverViewCourse/docs/01slJavascript.pdf) dia's 84-104** de rest van het hoofdstuk is ter info.
+<br>**Slides [Hoofdstuk 2: Objecten en functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) dia's 1-46** |
+
+### Arrays
+
+Doorloop op je eigen tempo de slides van Hoofdstuk 1: dia's 84-104 (arrays). Probeer hierbij regelmatig eens iets uit in de chrome developer console. **Dia 90** is van minder belang. Om een element te verwijderen uit een array zal je meestal de methode `.splice()` gebruiken of `.pop()` en `.shift()`.
+Om bijvoorbeeld het derde element te verwijderen uit de array *pizzas* gebruik je `pizzas.splice(2,1)`. Het eerste argument is de positie waar het verwijderen moet starten, het tweede argument is hoeveel elementen er moeten verwijderd worden, hier eentje. 
+
+Later in deze cursus komen we nog terug op het werken met arrays, maar bekijk al eens op MDN welke properties en methods er allemaal beschikbaar zijn [Array op MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array). Zie ook dia 98 en 99.
+
+Op dia 100 en 101 wordt **Array destructuring** besproken en op dia 102 wordt gebruikgemaakt van de spread syntax. De uitleg op deze drie dia's is heel kort en al komt men later in de cursus nog hierop. Ik zou toch aanraden om nu al de volgende artikels te lezen: 
+
+- [Destructuring assignment op MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+tot juist voor 'Unpacking values from a regular expression match'.
+- [Rest parameters and spread syntax op javascript.info](https://javascript.info/rest-parameters-spread)
+
+| **Oefeningen:** |
+| Als oefening op arrays kan je op de website https://web-ii.github.io/01thVoorbeelden/ bij Arrays > Eenvoudige operaties, onderaan de pagina de oefening maken (bestaat uit 10 vraagjes). |
+| Eventueel kan je ook nog Oefening 3 en 4 van Hoofdstuk 1 maken. |
+
+ ### Objecten en functies
+
+Neem de slides door van Hoofdstuk 2: Objecten nl. dia 1 t.e.m. dia 19. **Maak daarna de oefening op dia 20**.
+
+Neem de slides door van Hoofdstuk 2: functies nl. dia 21 t.e.m. dia 45. **Maak daarna de oefening op dia 46**.
+
+Na het doornemen van de slides over functies ken je nu drie manieren om een functie te definiëren, alle drie hebben ze hun toepassingen. Je moet ze dus alle drie kennen.
+
+Eventueel kan je op [https://javascript.info/](https://javascript.info/) nog de volgende items door te nemen:
+
+- **JavaScript Fundamentals** (*2.15 Function expressions* en *2.16 Arrow functions, the basics*)
+  **Opmerking** Eventueel kan je ook *2.17 JavaScript specials* doornemen, wat grotendeels herhaling is.
+- **Objects: the basics** (*4.1 Objects*)
+  **Opmerking** Ben je nog niet helemaal mee met 'Destructuring assignment' dan raad ik je aan om *5.10 Destructuring assignment* door te nemen.
 
 
 
