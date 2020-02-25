@@ -84,4 +84,50 @@ Eventueel kan je op [https://javascript.info/](https://javascript.info/) nog de 
 - **Objects: the basics** (*4.1 Objects*)
   <br>**Opmerking** Ben je nog niet helemaal mee met 'Destructuring assignment' dan raad ik je aan om *5.10 Destructuring assignment* door te nemen.
 
-Succes met het doornemen van les02!
+## Les03 Objects and functions (methods), events, closures, exceptions
+
+In deze les wordt hoofdstuk 2 verder afgewerkt.
+
+| **Leerstof:<br>Slides [Hoofdstuk 2: Objecten en functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) dia's 47-76** |
+
+### Object and functions (methods)
+
+Neem de slides door over 'methods': [Hoofdstuk 2: Objecten](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) nl. dia 47 t.e.m. dia 54.
+
+
+Eventueel kan je op [https://javascript.info/](https://javascript.info/) bij PART 1 het onderdeel *[4.4 Objects methods, "this"](https://javascript.info/object-methods)* doornemen.
+
+### Events
+
+Neem de slides door over events [Hoofdstuk 2: Objecten](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) nl. dia 55 t.e.m. dia 70.
+
+De DOM wordt in de slides pas in Hoofdstuk 6 besproken, maar om te kunnen werken met events hebben we wel een beetje DOM nodig, waaronder `document.getElementByd()`. Daarom wordt in het onderdeel 'events' ook reeds gesproken over de DOM.
+
+Eventueel kan je op [https://javascript.info/](https://javascript.info/) bij PART 2  het volgende doornemen:
+
+- in verband met de DOM:
+
+  - *[1.1 Browser environment, specs](https://javascript.info/browser-environment)* 
+  - En bij *1.4* de sectie *[document.getElementById or just id](https://javascript.info/searching-elements-dom#document-getelementbyid-or-just-id)*.
+
+- in verband met events:
+
+  - *[1.2 Introduction to browser events](https://javascript.info/introduction-browser-events)*
+
+### Closures (dia 71-75)
+
+Closures is een niet zo eenvoudig stukje. Maar gelukkig zal je in JavaScript meestal Closures gebruiken, zonder dat je je er echt van bewust bent.
+
+Diepgaandere info vind je op [https://javascript.info/closure](https://javascript.info/closure).
+
+
+### Exceptions (dia 76)
+
+Er is slechts één summiere dia over exceptions. `try...catch` werkt in JavaScript vrij analoog aan hetgeen je gezien hebt in java.
+
+Meer info vind je op [https://javascript.info/try-catch](https://javascript.info/try-catch)
+
+| **Oefeningen** | 
+| Nadat je het bovenstaande hebt doorgewerkt kan je ook nog de oefeningen op Hoofdstuk 2 maken. Neem gerust de oplossing [https://github.com/Web-II/02solObjectsAndFunctions](https://github.com/Web-II/02solObjectsAndFunctions) erbij als je problemen ondervindt. | 
+
+Succes met het afwerken van Hoofdstuk 2.
