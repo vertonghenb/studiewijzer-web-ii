@@ -88,7 +88,7 @@ Eventueel kan je op [https://javascript.info/](https://javascript.info/) nog de 
 
 In deze les wordt hoofdstuk 2 verder afgewerkt.
 
-| **Leerstof:<br>Slides [Hoofdstuk 2: Objecten en functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) dia's 47-76** |
+| **Leerstof: Slides [Hoofdstuk 2: Objecten en functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) dia's 47-76** |
 
 ### Object and functions (methods)
 
@@ -138,7 +138,7 @@ In JavaScript kan je op verschillende manieren werken met objecten en sinds ES6 
 
 Voor ES6 gebruikte men in JavaScript *Constructor functions* in plaats van *Classes*. Ook al gaan we de werkwijze met de Constructor function niet echt gebruiken in deze cursus, toch is het misschien niet slecht om van het onderdeel *[4.6 Constructor, operator "new"](https://javascript.info/constructor-new)* het begin te lezen (de inleiding en de eerste sectie **Constructor function**).
 
-| **Leerstof:<br>Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 1-29** |
+| **Leerstof: Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 1-29** |
 
 Neem de slides door nl. dia 1 t.e.m. 29  en los ook de vragen op in blog1.js (dia 15) en blog2.js (dia 29) in de voorbeeldbestanden.
 
