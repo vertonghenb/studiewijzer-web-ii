@@ -132,7 +132,7 @@ Meer info vind je op [https://javascript.info/try-catch](https://javascript.info
 
 ## Les04 Class basic syntax
 
-In deze les starten we met hoofdstuk 3.
+In deze les starten we in hoofdstuk 3 met het werken met classes in JavaScript. Classes ken je reeds uit Java, het meeste zal je dus bekend voorkomen.
 
 In JavaScript kan je op verschillende manieren werken met objecten en sinds ES6 kan je in JavaScript ook de class-syntax gebruiken. Daar het gebruik van de class-syntax in JavaScript meer en meer mainstream wordt, zullen we in deze cursus vooral hierop de nadruk leggen.
 
@@ -140,7 +140,7 @@ Voor ES6 gebruikte men in JavaScript *Constructor functions* in plaats van *Clas
 
 | **Leerstof:<br>Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 1-29** |
 
-Neem de slides door en los ook de vragen op in blog1.js (dia 15) en blog2.js (dia 29) in de voorbeeldbestanden.
+Neem de slides door nl. dia 1 t.e.m. 29  en los ook de vragen op in blog1.js (dia 15) en blog2.js (dia 29) in de voorbeeldbestanden.
 
 Lees op [https://javascript.info/](https://javascript.info/) eventueel *[9.1 Class basic syntax](https://javascript.info/class)* (**Class expression** en **Class properties** kan je skippen, deze zullen we niet bespreken in de cursus).
 
