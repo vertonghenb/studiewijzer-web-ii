@@ -147,9 +147,7 @@ Lees op [https://javascript.info/](https://javascript.info/) eventueel *[9.1 Cla
 | **Oefeningen** | 
 | Nadat je het bovenstaande hebt doorgewerkt, maak je best **Oefening 1: Afrikaans dobbelen**. Deze oefening bevat een stapsgewijze opgave en is een goede herhaling.
 
+## Les05
 
-
-
-
-
+Een mogelijke oplossing voor de Blog-oefeningen vind je in de repo [https://github.com/plauwaer/03thcompleted](https://github.com/plauwaer/03thcompleted)
 
