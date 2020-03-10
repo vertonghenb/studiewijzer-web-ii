@@ -147,7 +147,25 @@ Lees op [https://javascript.info/](https://javascript.info/) eventueel *[9.1 Cla
 | **Oefeningen** | 
 | Nadat je het bovenstaande hebt doorgewerkt, maak je best **Oefening 1: Afrikaans dobbelen**. Deze oefening bevat een stapsgewijze opgave en is een goede herhaling.
 
-## Les05
+## Les05 Overerving, prototypes
 
-Een mogelijke oplossing voor de Blog-oefeningen vind je in de repo [https://github.com/plauwaer/03thcompleted](https://github.com/plauwaer/03thcompleted)
 
+Een mogelijke oplossing voor de blog-oefeningen (*blog1.js* en *blog2.js* uit de vorige les en *blog3.js* deze les) vind je in de repo [https://github.com/plauwaer/03thcompleted](https://github.com/plauwaer/03thcompleted)
+
+In deze les bekijken we overerving en zien we hoe je in JavaScript een subklasse van een klasse kunt maken via `extends`. Dit alles is zeer analoog aan overerving in Java.
+
+We hebben gezien dat we sinds ES6 in JavaScript de class-syntax kunnen gebruiken, maar op de achtergrond gebruikt JavaScript nog steeds het 'prototype pattern' met 'constructor functions' en de 'prototype-chain'. Regelmatig zul je dus in JavaScript in aanraking komen met prototype-objecten. Daarom bevat dit hoofdstuk ook een aantal dia's over prototypes.
+
+Deze dia's zijn vnl. bedoeld als achtergrondinformatie. Bij het oplossen van de oefeningen en ook op het examen werken we in principe met de class-syntax en niet met prototypes.
+
+Misschien nog even benadrukken dat naast de class-syntax ook de object literal syntax (meestal zonder methodes) belangrijk is voor de oefeningen en het examen.
+
+De volgende les is een belangrijke les. Eén van de doelstelingen van Webapplicaties II is immers het vlot leren werken met de Array-methoden `map()`, `filter()`, `reduce()` en `forEach()` en deze worden besproken in Hoofdstuk 4. Neem als introductie daarop dia's 1-22 door van **Hoofdstuk 4 Functional programming met Arrays**.
+
+| **Leerstof: <br>
+Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 30-37** - overerving<br>
+**Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 38-53** - prototypes<br>
+**Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 1-22** - inleiding en herhaling arrays |
+
+| **Oefeningen** |
+| **Oefening 2: OXO** | 
