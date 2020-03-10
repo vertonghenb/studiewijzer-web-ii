@@ -162,10 +162,7 @@ Misschien nog even benadrukken dat naast de class-syntax ook de object literal s
 
 De volgende les is een belangrijke les. Eén van de doelstelingen van Webapplicaties II is immers het vlot leren werken met de Array-methoden `map()`, `filter()`, `reduce()` en `forEach()` en deze worden besproken in Hoofdstuk 4. Neem als introductie daarop dia's 1-22 door van **Hoofdstuk 4 Functional programming met Arrays**.
 
-| **Leerstof: <br>
-Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 30-37** - overerving<br>
-**Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 38-53** - prototypes<br>
-**Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 1-22** - inleiding en herhaling arrays |
+| **Leerstof: <br>Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 30-37** - overerving<br>**Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 38-53** - prototypes<br>**Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 1-22** - inleiding en herhaling arrays |
 
 | **Oefeningen** |
 | **Oefening 2: OXO** | 
