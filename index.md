@@ -181,7 +181,7 @@ Vooraleer je Oefening 1 van Hoofdstuk 4 probeert te maken is het wellicht nuttig
 Nog enkele extra links:
 
 - Wie na het doornemen van **/js/herhaling.js** graag nog een beetje extra herhaalt, kan de basis in verband met arrays nog eens nalezen op 
-[https://javascript.info/](https://javascript.info/) nl. *[5.4 Array](https://javascript.info/class)*. Ook de eerste taak 'Is array copied?' is een goede herhaling.
+[https://javascript.info/](https://javascript.info/) nl. *[5.4 Array](https://javascript.info/array)*. Ook de eerste taak 'Is array copied?' is een goede herhaling.
 - De moeilijkste methode is wellicht `arr.reduce()`. Je kan de werking van deze methode nalezen op [MDN: Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). Ook de eerste voorbeeldjes zijn een goede herhaling.
 
 |  **Oefeningen Hoofdstuk 4**  |
