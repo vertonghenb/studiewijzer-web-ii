@@ -90,7 +90,7 @@ In deze les wordt hoofdstuk 2 verder afgewerkt.
 
 | **Leerstof: Slides [Hoofdstuk 2: Objecten en functies](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) dia's 47-76** |
 
-### Object and functions (methods)
+### Objects and functions (methods)
 
 Neem de slides door over 'methods': [Hoofdstuk 2: Objecten](https://web-ii.github.io/OverViewCourse/docs/02ObjectenEnFuncties.pdf) nl. dia 47 t.e.m. dia 54.
 
@@ -149,7 +149,6 @@ Lees op [https://javascript.info/](https://javascript.info/) eventueel *[9.1 Cla
 
 ## Les05 Overerving, prototypes
 
-
 Een mogelijke oplossing voor de blog-oefeningen (*blog1.js* en *blog2.js* uit de vorige les en *blog3.js* deze les) vind je in de repo [https://github.com/plauwaer/03thcompleted](https://github.com/plauwaer/03thcompleted)
 
 In deze les bekijken we overerving en zien we hoe je in JavaScript een subklasse van een klasse kunt maken via `extends`. Dit alles is zeer analoog aan overerving in Java.
@@ -160,9 +159,34 @@ Deze dia's zijn vnl. bedoeld als achtergrondinformatie. Bij het oplossen van de 
 
 Misschien nog even benadrukken dat naast de class-syntax ook de object literal syntax (meestal zonder methodes) belangrijk is voor de oefeningen en het examen.
 
-De volgende les is een belangrijke les. Eén van de doelstelingen van Webapplicaties II is immers het vlot leren werken met de Array-methoden `map()`, `filter()`, `reduce()` en `forEach()` en deze worden besproken in Hoofdstuk 4. Neem als introductie daarop dia's 1-22 door van **Hoofdstuk 4 Functional programming met Arrays**.
+De volgende les is een belangrijke les. Eén van de doelstelingen van Webapplicaties II is immers het vlot leren werken met de array-methoden `map()`, `filter()`, `reduce()` en `forEach()` en deze worden besproken in Hoofdstuk 4. Neem als introductie daarop dia's 1-22 door van **Hoofdstuk 4 Functional programming met Arrays**.
 
 | **Leerstof: <br>Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 30-37** - overerving<br>**Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 38-53** - prototypes<br>**Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 1-22** - inleiding en herhaling arrays |
 
 | **Oefeningen** |
 | **Oefening 2: OXO** | 
+
+## Les06 Functional programming, Array methods
+
+(Opmerkingen voor wie de repo **04thCollectionsStarter** gecloned heeft voor 2020-03-14: de twee oefeningen op sorteren stonden in de verkeerde .js-file. De oefeningen zijn verplaatst van **/js/herhaling.js** naar **/js/advanced.js**.  En bovenaan in **/js/advanced.js** is de array fruit toegevoegd. )
+
+| **Leerstof: Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 23-33** |
+
+In deze dia's worden de array-methoden `arr.map()`, `arr.filter()` en `arr.reduce()` besproken.
+
+Neem niet alleen de theorie door, maar maak ook Oefening 1, achteraan in **js/mapFilterReduce.js** . Deze oefening bevat zeven driloefeningen.
+
+Vooraleer je Oefening 1 van Hoofdstuk 4 probeert te maken is het wellicht nuttig om op [http://developer.mozilla.org](http://developer.mozilla.org) de methodes die beschikbaar zijn voor String en Array nog eens kort te overlopen. Maak eventueel voor jezelf hiervan een samenvatting.
+
+Nog enkele extra links:
+
+- Wie na het doornemen van **/js/herhaling.js** graag nog een beetje extra herhaalt, kan de basis in verband met arrays nog eens nalezen op 
+[https://javascript.info/](https://javascript.info/) nl. *[5.4 Array](https://javascript.info/class)*. Ook de eerste taak 'Is array copied?' is een goede herhaling.
+- De moeilijkste methode is wellicht `arr.reduce()`. Je kan de werking van deze methode nalezen op [MDN: Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). Ook de eerste voorbeeldjes zijn een goede herhaling.
+
+| **Oefeningen Hoofdstuk 4** |
+| **Oefening 1**: <br>1. Caesarcijfer, 2 Camelize, 3. Buren en 4. Morse<br>
+
+Met uitzondering van de functie zijnBuren() is het de bedoeling dat je in deze oefening geen gebruikmaakt van de klassieke for-lus. <br>
+Tip Je moet onder andere gebruikmaken van `str.split()`, `str.join()` en `arr.map()`, `arr.reduce()`. |
+| Dit academiejaar is de Canvas API geen leerstof. Bijgevolg zijn 'Oefening 2: Snake' en 'Oefening 3: Doolhof' geen verplicht te maken oefeningen. Indien je deze leuke oefeningen wenst te maken, lees je best eerst een inleiding op de Canvas API. Suggestie: lees op MDN in de [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) minstens '1. Basic usage' en het begin van '2. Drawing shapes'. |
