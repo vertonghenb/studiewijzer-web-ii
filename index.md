@@ -185,8 +185,7 @@ Nog enkele extra links:
 - De moeilijkste methode is wellicht `arr.reduce()`. Je kan de werking van deze methode nalezen op [MDN: Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). Ook de eerste voorbeeldjes zijn een goede herhaling.
 
 | **Oefeningen Hoofdstuk 4** |
-| **Oefening 1**: <br>1. Caesarcijfer, 2 Camelize, 3. Buren en 4. Morse<br>
-
+| **Oefening 1**: <br>1. Caesarcijfer, 2 Camelize, 3. Buren en 4. Morse<br><br>
 Met uitzondering van de functie zijnBuren() is het de bedoeling dat je in deze oefening geen gebruikmaakt van de klassieke for-lus. <br>
 Tip Je moet onder andere gebruikmaken van `str.split()`, `str.join()` en `arr.map()`, `arr.reduce()`. |
 | Dit academiejaar is de Canvas API geen leerstof. Bijgevolg zijn 'Oefening 2: Snake' en 'Oefening 3: Doolhof' geen verplicht te maken oefeningen. Indien je deze leuke oefeningen wenst te maken, lees je best eerst een inleiding op de Canvas API. Suggestie: lees op MDN in de [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) minstens '1. Basic usage' en het begin van '2. Drawing shapes'. |
