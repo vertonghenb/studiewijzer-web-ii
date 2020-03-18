@@ -190,8 +190,6 @@ Nog enkele extra links:
 |  **Oefening 1: 1. Caesarcijfer, 2 Camelize, 3. Buren en 4. Morse**<br>Met uitzondering van de functie zijnBuren() is het de bedoeling dat je in deze oefening geen gebruikmaakt van de klassieke for-lus. Tip Je moet onder andere gebruikmaken van `str.split()`, `str.join()` en `arr.map()`, `arr.reduce()`.<br>Voor deze oefening zijn er video's gemaakt. Je vindt de video's in de map **[VIDEO'S - H04ex](https://hogent.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=d3f69ef3-9beb-4742-b2ce-ab81009a8c2c)**, maar probeer eerst zelf de oefeningen te maken.  |
 |  Dit academiejaar is de Canvas API geen leerstof. Bijgevolg zijn 'Oefening 2: Snake' en 'Oefening 3: Doolhof' geen verplicht te maken oefeningen. Indien je deze leuke oefeningen wenst te maken, lees je best eerst een inleiding op de Canvas API. Suggestie: lees op MDN in de [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) minstens '1. Basic usage' en het begin van '2. Drawing shapes'.  |
 
-
-
 ## Les07 Array methodes: forEach(), sort(), ...
 
 | **Leerstof: Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 34-39** |
@@ -212,13 +210,13 @@ Eventueel kan je nog eens de geziene array-methodes, uit deze en de vorige les h
 | **Oefeningen Hoofdstuk 4** | 
 | Maak nadat je het bovenstaande hebt doorgewerkt **Oefening 4: Array Cardio**. Een stapsgewijze oplossing van 1. t.em. 7 kan je bekijken in de video [https://youtu.be/HB1ZC7czKRs](https://youtu.be/HB1ZC7czKRs) (6. in de video komt niet voor in de oefening omdat deze gebruikmaakt van DOM, wat pas in Hoofdstuk 6 besproken wordt). De oplossing van 8., 9. en 10. kan je bekijken in de video [https://youtu.be/QNmRfyNg1lw](https://youtu.be/QNmRfyNg1lw). | 
 
+## Les08 De datastructuren **Map** en **Set** en het gebruik van de rest en de spread operator 
 
+| **Leerstof: Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 40-65** |
 
+Alhoewel 'Objects' en 'Arrays' als datastructuren meestal volstaan, zijn de datastructuren 'Map' en 'Set' soms geschikter voor het oplossen van een bepaald probleem (we moeten niet telkens opnieuw het wiel uitvinden).
 
+Map- en Set-objecten hebben echter minder methodes dan een Array-object. Wensen we dus bijvoorbeeld `.filter()` te gebruiken op een Map-object, dan zullen we het Map-object eerst moeten omzetten naar een Array-object. Dit kan onder andere met de spread operator. Eventueel zal je daarna het Array-object terug omzetten naar een Map-object. 
 
-
-
-
-
-
+Maak bij het doornemen van **js/maps.js**, **js/sets.js** en **restAndSpread.js** ook telkens de twee oefeningen die onderaan in de files vermeld zijn.
 
