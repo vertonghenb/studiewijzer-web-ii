@@ -210,7 +210,7 @@ Voor meer info over `.sort()` zie [Array.prototype.sort() op MDN](https://develo
 Eventueel kan je nog eens de geziene array-methodes, uit deze en de vorige les herhalen op [https://javascript.info](https://javascript.info) nl. *[5.5 Array methods](https://javascript.info/array-methods)* (het laatste item nl. **Most methods support “thisArg”** kan je skippen, dit wordt niet besproken in de cursus).
 
 | **Oefeningen Hoofdstuk 4** | 
-| Maak nadat je het bovenstaande hebt doorgewerkt **Oefening 4: Array Cardio**. Een stapsgewijze oplossing van 1. t.em. 7 kan je bekijken in de video https://youtu.be/HB1ZC7czKRs (6. in de video komt niet voor in de oefening omdat deze gebruikmaakt van DOM, wat pas in Hoofdstuk 6 besproken wordt). De oplossing van 8., 9. en 10. kan je bekijken in de video https://youtu.be/QNmRfyNg1lw  | 
+| Maak nadat je het bovenstaande hebt doorgewerkt **Oefening 4: Array Cardio**. Een stapsgewijze oplossing van 1. t.em. 7 kan je bekijken in de video [https://youtu.be/HB1ZC7czKRs](https://youtu.be/HB1ZC7czKRs) (6. in de video komt niet voor in de oefening omdat deze gebruikmaakt van DOM, wat pas in Hoofdstuk 6 besproken wordt). De oplossing van 8., 9. en 10. kan je bekijken in de video [https://youtu.be/QNmRfyNg1lw](https://youtu.be/QNmRfyNg1lw). | 
 
 
 
