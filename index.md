@@ -159,9 +159,12 @@ Deze dia's zijn vnl. bedoeld als achtergrondinformatie. Bij het oplossen van de 
 
 Misschien nog even benadrukken dat naast de class-syntax ook de object literal syntax (meestal zonder methodes) belangrijk is voor de oefeningen en het examen.
 
-De volgende les is een belangrijke les. Eén van de doelstelingen van Webapplicaties II is immers het vlot leren werken met de array-methoden `map()`, `filter()`, `reduce()` en `forEach()` en deze worden besproken in Hoofdstuk 4. Neem als introductie daarop dia's 1-22 door van **Hoofdstuk 4 Functional programming met Arrays**.
+De volgende les is een belangrijke les. Eén van de doelstelingen van Webapplicaties II is immers het vlot leren werken met de array-methoden `map()`, `filter()`, `reduce()` en `forEach()` en deze worden besproken in Hoofdstuk 4. Neem als introductie daarop dia's 1-22 door van **Hoofdstuk 4 Functional programming met Arrays**. Voor deze dia's is er een video 'H04 - 1 arrays herhaling' gemaakt. Je vindt de video in de map 
+**[VIDEO'S Hoofdstuk 4 Theorie](https://hogent.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%224c0fb62e-2bad-4269-99fb-ab81009a402f%22)**
 
 | **Leerstof: <br>Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 30-37** - overerving<br>**Slides [Hoofdstuk 3: OOP in JavaScript](https://web-ii.github.io/OverViewCourse/docs/03OopInJavascript.pdf) dia's 38-53** - prototypes<br>**Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 1-22** - inleiding en herhaling arrays |
+
+
 
 | **Oefeningen** |
 | **Oefening 2: OXO** | 
@@ -172,11 +175,10 @@ De volgende les is een belangrijke les. Eén van de doelstelingen van Webapplica
 
 | **Leerstof: Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 23-33** |
 
-In deze dia's worden de array-methoden `arr.map()`, `arr.filter()` en `arr.reduce()` besproken.
+In deze dia's worden de array-methoden `arr.map()`, `arr.filter()` en `arr.reduce()` besproken. Voor deze dia's is er een video 'H04 - 2 map/filter/reduce' gemaakt. Je vindt de video in de map 
+**[VIDEO'S Hoofdstuk 4 Theorie](https://hogent.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%224c0fb62e-2bad-4269-99fb-ab81009a402f%22)**.
 
-Neem niet alleen de theorie door, maar maak ook Oefening 1, achteraan in **js/mapFilterReduce.js** . Deze oefening bevat zeven driloefeningen.
-
-Vooraleer je Oefening 1 van Hoofdstuk 4 probeert te maken is het wellicht nuttig om op [http://developer.mozilla.org](http://developer.mozilla.org) de methodes die beschikbaar zijn voor String en Array nog eens kort te overlopen. Maak eventueel voor jezelf hiervan een samenvatting.
+Doorloop niet alleen de video, maar maak (zoals gevraagd in de video) Oefening 1, achteraan in **js/mapFilterReduce.js** . Deze oefening bevat zeven driloefeningen. Vooraleer je Oefening 1 probeert te maken is het misschien nuttig om op http://developer.mozilla.org de methodes die beschikbaar zijn voor String en Array nog eens kort te overlopen. Maak eventueel voor jezelf hiervan een samenvatting.
 
 Nog enkele extra links:
 
@@ -185,6 +187,38 @@ Nog enkele extra links:
 - De moeilijkste methode is wellicht `arr.reduce()`. Je kan de werking van deze methode nalezen op [MDN: Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce). Ook de eerste voorbeeldjes zijn een goede herhaling.
 
 |  **Oefeningen Hoofdstuk 4**  |
-|  **Oefening 1: 1. Caesarcijfer, 2 Camelize, 3. Buren en 4. Morse** 
-Met uitzondering van de functie zijnBuren() is het de bedoeling dat je in deze oefening geen gebruikmaakt van de klassieke for-lus. Tip Je moet onder andere gebruikmaken van `str.split()`, `str.join()` en `arr.map()`, `arr.reduce()`.  |
+|  **Oefening 1: 1. Caesarcijfer, 2 Camelize, 3. Buren en 4. Morse**<br>Met uitzondering van de functie zijnBuren() is het de bedoeling dat je in deze oefening geen gebruikmaakt van de klassieke for-lus. Tip Je moet onder andere gebruikmaken van `str.split()`, `str.join()` en `arr.map()`, `arr.reduce()`.<br>Voor deze oefening zijn er video's gemaakt. Je vindt de video's in de map **[VIDEO'S - H04ex](https://hogent.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=d3f69ef3-9beb-4742-b2ce-ab81009a8c2c)**, maar probeer eerst zelf de oefeningen te maken.  |
 |  Dit academiejaar is de Canvas API geen leerstof. Bijgevolg zijn 'Oefening 2: Snake' en 'Oefening 3: Doolhof' geen verplicht te maken oefeningen. Indien je deze leuke oefeningen wenst te maken, lees je best eerst een inleiding op de Canvas API. Suggestie: lees op MDN in de [Canvas tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) minstens '1. Basic usage' en het begin van '2. Drawing shapes'.  |
+
+
+
+## Les07 Array methodes: forEach(), sort(), ...
+
+| **Leerstof: Slides [Hoofdstuk 4: Functional programming met Arrays](https://web-ii.github.io/OverViewCourse/docs/04FunctioneelProgrammeren.pdf) dia's 34-39** |
+
+In deze dia's worden de array-methoden `arr.forEach()`, `arr.find()`, `arr.findIndex()` en `arr.sort()`besproken.
+
+Onthou dat:
+
+- in tegenstelling tot de andere methodes, de methode `arr.forEach()`, geen waarde (undefined) teruggeeft
+- en dat de methode `arr.sort()` geen nieuwe array teruggeeft, zoals `arr.map()` en `arr.filter()`, maar de array zelf wijzigt.
+
+Neem niet alleen de theorie door, maar maak ook de twee driloefeningen op sorteren (sorteren array animals en sorteren array shapes) achteraan in **js/advanced.js** . 
+
+Voor meer info over `.sort()` zie [Array.prototype.sort() op MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort).
+
+Eventueel kan je nog eens de geziene array-methodes, uit deze en de vorige les herhalen op [https://javascript.info](https://javascript.info) nl. *[5.5 Array methods](https://javascript.info/array-methods)* (het laatste item nl. **Most methods support “thisArg”** kan je skippen, dit wordt niet besproken in de cursus).
+
+| **Oefeningen Hoofdstuk 4** | 
+| Maak nadat je het bovenstaande hebt doorgewerkt **Oefening 4: Array Cardio**. Een stapsgewijze oplossing van 1. t.em. 7 kan je bekijken in de video https://youtu.be/HB1ZC7czKRs (6. in de video komt niet voor in de oefening omdat deze gebruikmaakt van DOM, wat pas in Hoofdstuk 6 besproken wordt). De oplossing van 8., 9. en 10. kan je bekijken in de video https://youtu.be/QNmRfyNg1lw  | 
+
+
+
+
+
+
+
+
+
+
+
